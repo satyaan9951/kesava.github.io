@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.logo {
+    width: 200px;
+    height: 45px;
+
+}
+
+#navItem1 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem6 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem7 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+
+.wwa-section {
+    background-color: #f9fbfe;
+}
+
+.wwa-section-heading {
+    color: red;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wwa-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wwa-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+
+.wwa-image {
+    width: 180px;
+    height: 290px;
+    border-radius: 16px;
+}
+
+.wwa-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wwa-card-description {
+    color: #7b8794;
+    font-family: bold;
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.wws-section {
+    border-radius: 18px;
+
+}
+
+.wws_head_and_desc {
+    border-radius: 18px;
+    background-image: url('https://blog.vantagecircle.com/content/images/2020/08/technology-in-the-workplace.png');
+}
+
+.wws-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wws-item-image {
+    border-radius: 16px;
+
+}
+
+.wws-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.wws-item-card {
+    border-radius: 16px;
+}
+
+.wws-card-description {
+    color: #7b8794;
+    font-family: bold;
+    font-size: 16px;
+}
+
+.tft-item-title {
+    font-size: 20px;
+    background-color: #ffcc66;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.tft-item-cardg1 {
+    background-image: linear-gradient(#ffffcc, #ffffff);
+    height: 240px;
+}
+
+.tft-item-cardg2 {
+    background-image: linear-gradient(#ffffff, #ffffcc);
+    height: 240px;
+}
+
+
+.vertical {
+    border-left: 5px solid black;
+    height: 200px;
+}
+
+.form-section {
+    background-image: linear-gradient(white, #fbe79d);
+}
+
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.gender-field-heading {
+    color: #212529;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+.footer-bg {
+    background-image: radial-gradient(#f9da6c, #fbe79d);
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+}
+
+
+.aboutus-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.aboutus-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.aboutus-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.aboutus-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.follow-us-section {
+    background-image: linear-gradient(#fbe79d, white);
+}
+
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding: 20px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+
+}
+
+
+
+.menus-learnmore-section-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+.menus-learnmore-section-description {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+
+}
